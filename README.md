@@ -3,7 +3,7 @@
 
 ```diff
 
-       👋🏻 Hey there, I am Rishiraj Purohit.
+       👋🏻 Hey there.
 
 ```
 
